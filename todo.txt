@@ -1,16 +1,20 @@
 # multi-threading
-# dynamic pattern points number
-# dynamic pattern future outcome looking space
 # diffrent  like ==> end-to-start pattern recognition
 # diffrent percent change
 # diffrent pattern corolation check
 # add some weight to patterns (similarity * W) ==> W could be how old is pattern (newer better)
 # similarity threshold
 # using average Value of each pattern instead of just last Value of pattern for getting percent_change from future   outcome range avg
-# what of similar patterns list would be used for prediction? like ==> mean of performance of all negetives or       positives (the winner of these two) or average of all preformancess
+# what of similar patterns list would be used for prediction? like ==> mean of performance of all negetives or positives (the winner of       these two) or average of all preformancess
 
 # Video number 13 ((Variables in pattern recognition))
 
 
 # how about using each pattern range (10) as feature and percent change of this range as target 
   for Neural Network
+  
+  
+
+(((((DONE))))) :
+# dynamic pattern points number
+# dynamic pattern future outcome looking space
